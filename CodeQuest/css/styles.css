@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4472cf;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+#title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    background-color: #1b3d80;
+}
+p{
+    margin-top: 20px;
+    font-size: 1.2em;
+}
